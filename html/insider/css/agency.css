@@ -158,6 +158,12 @@ fieldset[disabled] .btn-xl.active {
   right: 86px;
   border-radius: 6px;
 }
+.plan-box ul {
+  border-bottom: 1px ridge darkgrey;
+  border-top: 1px ridge darkgrey;
+  padding: 12px;
+  line-height: 30px;
+}
 .plan-box ul li {
   list-style: none;
 }
@@ -166,6 +172,11 @@ fieldset[disabled] .btn-xl.active {
 }
 .dark {
   background-color: #000;
+}
+.section-heading:before {
+  border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  content: '';
 }
 .navbar-custom {
   background-color: #222222;

@@ -92,6 +92,10 @@ h1, h2, h3, h4, h5, h6 {
        
     }
     ul {
+          border-bottom: 1px ridge darkgrey;
+          border-top: 1px ridge darkgrey;
+          padding: 12px;
+          line-height: 30px;
           li {
                 list-style: none;
           }
@@ -106,7 +110,15 @@ h1, h2, h3, h4, h5, h6 {
       background-color: @gray-base;
 }
 
-
+.section-heading {
+   &:before
+   {
+     border-top: 1px solid green;
+     border-bottom: 1px solid green;
+     content: '';
+   }
+    
+}
 
 
 // Custom Navigation Bar
