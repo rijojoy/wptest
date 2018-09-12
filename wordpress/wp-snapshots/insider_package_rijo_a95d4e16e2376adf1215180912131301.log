@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: September 12, 2018 1:13 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.42
+WORDPRESS:	4.9.8
+PHP INFO:	5.6.16 | SAPI: apache2handler
+SERVER:		Apache/2.4.17 (Win64) PHP/5.6.16 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 46.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: insider_package_rijo_a95d4e16e2376adf1215180912131301_database.sql 
+SQL FILE SIZE: 135.04KB (138280) 
+SQL FILE TIME: 2018-09-12 13:13:20 
+SQL RUNTIME: 0.85 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp64/www/sites/theme-design/wordpress 
+ARCHIVE FILE: insider_package_rijo_a95d4e16e2376adf1215180912131301_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	67.78MB 
+STATS:	Dirs 585 | Files 4,018 
+SQL ADDED: insider_package_rijo_a95d4e16e2376adf1215180912131301_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4603
+    [filename] => C:\wamp64\www\sites\theme-design\wordpress\wp-snapshots\tmp\insider_package_rijo_a95d4e16e2376adf1215180912131301_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 24.38MB 
+ARCHIVE RUNTIME: 26.96 sec. 
+MEMORY STACK: 48MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/wamp64/www/sites/theme-design/wordpress/wp-snapshots/tmp/insider_package_rijo_a95d4e16e2376adf1215180912131301_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 135.04KB 
+Installer File: 472.5KB 
+Archive File: 24.38MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 28.19 sec.
+PEAK PHP MEMORY USED: 50MB
+DONE PROCESSING => insider_package_rijo September 12, 2018 1:13 pm
+ 
